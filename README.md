@@ -1,2 +1,2 @@
 # recyclerview-app
-Dominando a Recyclerview do Android
+Dominando a Recyclerview com XML no Android
